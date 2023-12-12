@@ -1,0 +1,22 @@
+{
+  "Lua.completion.callSnippet": "Both",
+  "Lua.workspace.library": [
+    "C:/Users/kutia/Documents/PlaydateSDK/CoreLibs"
+  ],
+  "Lua.diagnostics.globals": [
+    "import",
+    "playdate"
+  ],
+  "Lua.runtime.nonstandardSymbol": [
+    "+=",
+    "-=",
+    "*=",
+    "/="
+  ],
+  "Lua.diagnostics.disable": [
+    "need-check-nil",
+    "undefined-field",
+    "lowercase-global",
+    "inject-field"
+  ],
+}

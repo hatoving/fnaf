@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "request": "launch",
+      "type": "playdate",
+      "name": "Run app in Playdate simulator",
+      "source": "${workspaceRoot}/",
+      "output": "${workspaceRoot}/../fnaf.pdx",
+      // Optionally set sdkPath if not PLAYDATE_SDK_PATH is configured.
+      "sdkPath": "C:/Users/kutia/Documents/PlaydateSDK"
+    }
+  ]
+}
